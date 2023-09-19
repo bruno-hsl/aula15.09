@@ -5,7 +5,7 @@ main(){
     leia um número inteiro positivo N e imprima todos os números naturais de 0 até N em ordem crescente. */
     int n, i = 0;
 
-    printf("Digite um numero maior que inteiro: ");
+    printf("Digite um numero inteiro: ");
     scanf("%d", &n);
 
    while(i <= n){
